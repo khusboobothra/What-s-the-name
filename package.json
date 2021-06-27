@@ -2,7 +2,7 @@
   "name": "whatsthename",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://khusboobothra.github.io/What-s-the-name.git/",
+  "homepage":"https://khusboobothra.github.io/What-s-the-name/",
   "dependencies": {
     "@rstacruz/startup-name-generator": "0.3.0",
     "@testing-library/jest-dom": "^5.11.4",
